@@ -8,8 +8,6 @@ imgui.ini
 *.o
 *.obj
 *.exe
-bin/
-bin-int/
 examples/build/*
 examples/*/Debug/*
 examples/*/Release/*
@@ -27,7 +25,6 @@ ipch
 *.suo
 *.VC.db
 *.VC.VC.opendb
-*.vcxproj
 
 ## Xcode artifacts
 project.xcworkspace
